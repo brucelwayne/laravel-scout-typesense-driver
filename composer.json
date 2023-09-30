@@ -1,5 +1,5 @@
 {
-  "name": "malrlia/laravel-scout-typesense-driver",
+  "name": "brucelwayne/laravel-scout-typesense-driver",
   "description": "Laravel Scout Driver for Typesense",
   "keywords": [
     "laravel",
